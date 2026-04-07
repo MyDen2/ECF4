@@ -284,3 +284,4 @@ Votre API doit gérer et retourner des erreurs HTTP appropriées pour :
 - Champ `title` absent du corps de la requête → `422`
 - Pour `/predict/batch` : liste vide ou dépassant 50 titres → `400`
 
+&
